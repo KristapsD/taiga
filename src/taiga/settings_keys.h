@@ -103,6 +103,7 @@ enum class AppSettingKey {
   StreamWakanim,
   StreamYahoo,
   StreamYoutube,
+  StreamAnimeDao,
 
   // Sharing
   ShareDiscordApplicationId,

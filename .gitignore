@@ -3,3 +3,8 @@
 /deps/lib/
 /project/vs*/.vs/
 /project/vs*/*.user
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/taiga/v16/Browse.VC.db
+/.vs/taiga/v16/.suo

@@ -228,6 +228,8 @@ public:
   void SetStreamYahoo(const bool enabled);
   bool GetStreamYoutube() const;
   void SetStreamYoutube(const bool enabled);
+  bool GetStreamAnimeDao() const;
+  void SetStreamAnimeDao(const bool enabled);
 
   // Sharing
   std::wstring GetShareDiscordApplicationId() const;
