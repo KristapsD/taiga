@@ -950,6 +950,10 @@ bool Settings::GetStreamYoutube() const {
 void Settings::SetStreamYoutube(const bool enabled) {
   set_value(AppSettingKey::StreamYoutube, enabled);
 }
+bool Settings::GetStreamAnimeDao() const {
+  return value<bool>(AppSettingKey::StreamAnimeDao);
+}
+
 void Settings::SetStreamAnimeDao(const bool enabled) {
   set_value(AppSettingKey::StreamAnimeDao, enabled);
 }
