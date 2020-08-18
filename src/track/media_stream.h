@@ -38,6 +38,7 @@ enum class Stream {
   Wakanim,
   Yahoo,
   Youtube,
+  AnimeDao,
 };
 
 struct StreamData {
